@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Product.Services.CatalogAPI.props" />
+</Project>
